@@ -7,9 +7,10 @@ It is a **Salary Survey Program** that reads country-wise salary data from a CSV
 ## Folder Structure
 salary_analysis_using_csv/  
 │  
+├── README.md  
 ├── main.py  
 ├── ss.csv  
-├── README.md  
+├── ss.xlsx  
 └── screenshots/  
 
 ---  
