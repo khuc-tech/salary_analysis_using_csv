@@ -1,0 +1,7 @@
+Country_Name,Salary,Job_title,Years_with_this_job,Education,Computer_Knowledge,Working_hours_per_week
+Germany,25000,Engineer,10,None,Yes,35
+USA,56000,Developer,12,Bachelor 4 years,Yes,45
+India,30000,Architect,7,Bachelor 4 years,No,30
+Canada,75000,Engineer,15,Bachelor 2 years,No,50
+UK,91000,Data Scientist,20,Bachelor 2 years,Yes,35
+Russia,60000,Developer,12,Bachelor 4 years,Yes,40
